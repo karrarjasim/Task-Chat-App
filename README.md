@@ -1,8 +1,11 @@
-# Chat App Readme
 
 ## Project Overview
 
 This project is a real-time chat application built using the Laravel framework for the backend, Vue.js for the frontend, and Pusher for real-time communication. Unlike traditional chat applications, this app requires no authentication. Users simply enter their name upon accessing the page and can immediately start sending and receiving messages in real-time.
+
+## Preview 
+
+![preview](./public/preview.gif)
 
 ## Features
 

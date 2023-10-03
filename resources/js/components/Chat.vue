@@ -1,5 +1,5 @@
 <template>
-  <h1 class="text-2xl font-bold text-center text-gray-900 mb-3">Masiya Group</h1>
+  <h1 class="text-2xl font-bold text-center text-gray-900 mb-3">Masiya Group ({{ userName ?? '' }})</h1>
   <Messages :messages="messages" />
   <div class=" mx-auto">
 
